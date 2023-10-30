@@ -1,0 +1,3 @@
+[submodule "cloud-functions-demo"]
+	path = cloud-functions-demo
+	url = https://github.com/SBCSClub/cloud-functions-demo.git
